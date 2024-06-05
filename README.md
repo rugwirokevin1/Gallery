@@ -17,7 +17,7 @@ interactive-photo-gallery/
 │   ├── fox.png
 │   ├── whale.png
 │   ├── monkey.png
-│   └── deer.png
+│   └── deer.jpg
 ├── css/
 │   └── style.css
 ├── js/
